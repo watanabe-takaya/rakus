@@ -39,6 +39,7 @@ public class age2 {
 				} else {
 					break;
 				}
+				//整数以外のエラー処理
 			} catch (Exception e) {
 				System.out.println("西暦は整数で入力して下さい");
 				// 入力バッファのクリア(残っている整数以外のデータの除去)

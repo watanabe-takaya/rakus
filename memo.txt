@@ -2,5 +2,6 @@ cd github
 cd test-push
 git add -A
 git commit
+git commit -m "recommit" -v
 →コメントをどうにかしたい
 git push origin master
