@@ -21,6 +21,7 @@ public class age1 {
 
 	// 生年月日入力
 	//追記コミット確認aaa
+	//aaa
 	public static int getBirthYear() {
 
 		System.out.println("あなたの生まれた西暦の入力");
